@@ -1,7 +1,10 @@
 # IANSEO Launcher
 
 > 🇫🇷 Petit utilitaire Windows permettant de lancer et contrôler **IANSEO** (Apache/MySQL) facilement, avec gestion multilingue et QR-Code intégré pour accéder à IANSEO.  
-> 🇬🇧 Small Windows utility to easily start and control **IANSEO** (Apache/MySQL), with multilingual support and integrated QR-Code to access IANSEO.
+> Voici le lien vers le code source : [code source](https://github.com/Steph-Krs/ianseo-launcher-exe-dev)  
+>   
+> 🇬🇧 Small Windows utility to easily start and control **IANSEO** (Apache/MySQL), with multilingual support and integrated QR-Code to access IANSEO.  
+> Here is the link to the source code: [source code](https://github.com/Steph-Krs/ianseo-launcher-exe-dev)  
 
 ---
 
